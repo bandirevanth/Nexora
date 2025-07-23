@@ -63,3 +63,9 @@ Explore a few examples of how Nexora can enhance your daily tasks:
 ## Project Background
 
 Nexora is an AI-driven project that showcases the capabilities of AI-generated content. The tool itself was utilized to develop most of the content within this project. This demonstrates the potential of AI-driven development and the seamless integration of AI-generated content to suit user needs.
+
+---
+
+If you liked the project, give the repo a star.
+Feel free to contribute :)
+
